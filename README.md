@@ -1,4 +1,14 @@
-💟 Search @warrior_coder in the neighboring DCODER app to access my scheduled codes 
+**README.MD**
+👋
 
-🔐 Due to some privacy settings my profile may seem empty to you, but remember that I'm just an enthusiast, many of my test codes are private and many are discarded
+**Sobre este Repositório**
 
+Bem-vindo ao meu playground de desenvolvimento! Este repositório é onde eu testo ideias, exploro tecnologias e descubro como configurar as coisas.
+
+
+**Não tenho certeza do que você encontrará:**
+
+* Código perfeitamente escrito
+* (ainda estou aprendendo!)
+* Projetos complexos (não sou um ninja do desenvolvimento)
+* Respostas para todas as suas perguntas (só estou compartilhando o que sei)
