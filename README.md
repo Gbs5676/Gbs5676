@@ -38,9 +38,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Gbs5676&theme=radical" alt="Troféus do perfil"/>
 </p>
 
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Gbs5676&theme=rogue" alt="Gráfico de atividades do GitHub"/>
-</p>
+
 
 ---
 
