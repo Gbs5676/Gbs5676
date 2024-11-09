@@ -1,16 +1,12 @@
 **README.MD**
 👋
 
-**Sobre este Repositório**
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=30&color=F75C7E&center=true&vCenter=true&width=450&lines=OLÁ,+SEJA+BEM-VINDO+AO+MEU+GITHUB!;Aonde+vamos+agora?+•+•+•" alt="Texto animado de boas-vindas"/>
+</h1>
 
-Bem-vindo ao meu playground de desenvolvimento! Este repositório é onde eu testo ideias, exploro tecnologias e descubro como configurar as coisas.
-
-
-**Não tenho certeza do que você encontrará:**
-
-* Código perfeitamente escrito
-* (ainda estou aprendendo!)
-* Projetos complexos (não sou um ninja do desenvolvimento)
-* Respostas para todas as suas perguntas (só estou compartilhando o que sei)
-
-* (não tenho vontade de trabalhar na área apenas acho interessante, RS😜) 
+<p align="center">
+  <a href="https://dcoder.tech/" target="_blank">
+    <img src="https://img.shields.io/badge/Dcoder-323330?style=for-the-badge&logo=dcoder&logoColor=F7DF1E" alt="Abrir Dcoder"/>
+  </a>
+</p>
