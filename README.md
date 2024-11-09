@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=500&color=36BCF7&center=true&vCenter=true&width=450&lines=Aonde+vamos+agora%3F+%E2%80%A2%E2%80%A2%E2%80%A2;olá+sou+gabriel!%2C+!" alt="Texto animado de boas-vindas" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=500&color=36BCF7&center=true&vCenter=true&width=450&lines=Aonde+vamos+agora%3F+%E2%80%A2%E2%80%A2%E2%80%A2;olá+sou+gabriel!!" alt="Texto animado de boas-vindas" />
 </p>
 
 ---
@@ -25,5 +25,5 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=500&color=FF5733&center=true&vCenter=true&width=550&lines=Divirta-se+explorando%2C+e+não+esqueça+de+deixar+um+%E2%9D%A4!" alt="Mensagem final"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=500&color=FF5733&center=true&vCenter=true&width=550&lines=não+esqueça+de+deixar+um+%E2%9D%A4!" alt="Mensagem final"/>
 </p>
