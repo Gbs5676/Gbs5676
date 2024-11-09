@@ -14,10 +14,10 @@
   <a href="https://code.dcoder.tech/profile/gabriel555" target="_blank">
     <img src="https://img.shields.io/badge/Dcoder-323330?style=for-the-badge&logo=dcoder&logoColor=F7DF1E" alt="Abrir Dcoder"/>
   </a>
-  <a href="#projetos" target="_self">
+  <a href="https://404-flax.vercel.app/?vercelToolbarCode=nitTT2OzUtQxYuc" target="_self">
     <img src="https://img.shields.io/badge/Projetos-28A745?style=for-the-badge&logo=github&logoColor=white" alt="https://404-flax.vercel.app/?vercelToolbarCode=nitTT2OzUtQxYuc"/>
   </a>
-  <a href="#contato" target="_self">
+  <a href="https://smbglobal.simdif.com/" target="_self">
     <img src="https://img.shields.io/badge/Contato-007ACC?style=for-the-badge&logo=mail.ru&logoColor=white" alt="https://smbglobal.simdif.com/"/>
   </a>
 </p>
