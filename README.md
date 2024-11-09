@@ -1,66 +1,29 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Animação de Lápis Escrevendo</title>
-<style>
-  /* Estilo do lápis */
-  .pencil {
-    position: absolute;
-    width: 20px;
-    height: 20px;
-    background: #f4a261;
-    border-radius: 50% 0 0 50%;
-    transform: rotate(45deg);
-    animation: pencilMove 3s ease-in-out forwards;
-  }
-  .pencil:before {
-    content: "";
-    position: absolute;
-    width: 10px;
-    height: 10px;
-    background: #000;
-    border-radius: 50%;
-    top: 5px;
-    left: 10px;
-  }
+<h1 align="center">
+  👋 Olá, seja bem-vindo ao meu GitHub!
+</h1>
 
-  /* Animação do texto sendo "escrito" */
-  .writing-text {
-    font-family: 'Patrick Hand', cursive;
-    font-size: 24px;
-    color: #333;
-    overflow: hidden;
-    border-right: .15em solid orange;
-    white-space: nowrap;
-    margin: 0 auto;
-    animation: typing 3s steps(30, end), blink-caret .5s step-end infinite;
-  }
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=500&color=36BCF7&center=true&vCenter=true&width=450&lines=Aonde+vamos+agora%3F+%E2%80%A2%E2%80%A2%E2%80%A2;Explore+meus+projetos%2C+conhecimentos+e+mais!" alt="Texto animado de boas-vindas" />
+</p>
 
-  /* Animações */
-  @keyframes typing {
-    from { width: 0 }
-    to { width: 100% }
-  }
+---
 
-  @keyframes blink-caret {
-    from, to { border-color: transparent }
-    50% { border-color: orange; }
-  }
+<h3 align="center">Escolha seu destino:</h3>
 
-  @keyframes pencilMove {
-    0% { top: 0; left: 0; }
-    100% { top: 30px; left: 320px; }
-  }
-</style>
-</head>
-<body>
+<p align="center">
+  <a href="https://dcoder.tech/" target="_blank">
+    <img src="https://img.shields.io/badge/Dcoder-323330?style=for-the-badge&logo=dcoder&logoColor=F7DF1E" alt="Abrir Dcoder"/>
+  </a>
+  <a href="#projetos" target="_self">
+    <img src="https://img.shields.io/badge/Projetos-28A745?style=for-the-badge&logo=github&logoColor=white" alt="Ver Projetos"/>
+  </a>
+  <a href="#contato" target="_self">
+    <img src="https://img.shields.io/badge/Contato-007ACC?style=for-the-badge&logo=mail.ru&logoColor=white" alt="Entre em Contato"/>
+  </a>
+</p>
 
-<div style="position: relative; display: flex; align-items: center;">
-  <div class="pencil"></div>
-  <div class="writing-text">OLÁ! SEJA BEM-VINDO AO MEU GITHUB!</div>
-</div>
+---
 
-</body>
-</html>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=500&color=FF5733&center=true&vCenter=true&width=550&lines=Divirta-se+explorando%2C+e+não+esqueça+de+deixar+um+%E2%9D%A4!" alt="Mensagem final"/>
+</p>
