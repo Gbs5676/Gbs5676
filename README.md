@@ -55,3 +55,5 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=500&color=FF5733&center=true&vCenter=true&width=550&lines=Não+esqueça+de+deixar+um+%E2%9D%A4!" alt="Mensagem final com coração"/>
 </p>
+
+<script src="https://gist.github.com/Gbs5676/a05b8389610318bb9bc317da6c93412e.js"></script>
