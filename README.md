@@ -63,3 +63,6 @@ My Gists Cards
  [GistCard](https://gist.github.com/Gbs5676/ba91366e884f44df0d489f6059c22ecd)
 
 More coming soon
+
+
+![Gbs5676 snake gif](https://github.com/Gbs5676/Gbs5676/blob/output/github-snake.svg)
