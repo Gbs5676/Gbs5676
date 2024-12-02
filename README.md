@@ -45,12 +45,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gbs5676&layout=compact&theme=radical" alt="Linguagens mais usadas"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Gbs5676&theme=radical" alt="Troféus do perfil"/>
-</p>
-
-
-
 ---
 
 <h3 align="center">📈 Tabela Resumo das Estatísticas</h3>
