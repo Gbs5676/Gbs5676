@@ -2,7 +2,10 @@
 
 <br><br>
 <h1>
-  👋 Olá, seja bem-vindo ao meu GitHub!
+  <picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif" alt="✨" width="32" height="32">
+  </picture> Olá, seja bem-vindo ao meu GitHub!
 </h1>
 
 <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
@@ -16,7 +19,10 @@
 
 ---
 
-<h3 align="center">Escolha seu destino:</h3>
+<picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif" alt="✨" width="32" height="32">
+</picture> <h3 align="center">Escolha seu destino:</h3>
 
 <p align="center">
   <a href="https://code.dcoder.tech/profile/gabriel555" target="_blank">
@@ -32,7 +38,10 @@
 
 ---
 
-<h2 align="center">📊 Minhas Estatísticas no GitHub</h2>
+<picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif" alt="✨" width="32" height="32">
+</picture> <h2 align="center">📊 Minhas Estatísticas no GitHub</h2>
 
 <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="400">
 <br><br>
@@ -47,7 +56,10 @@
 
 ---
 
-<h3 align="center">📈 Tabela Resumo das Estatísticas</h3>
+<picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif" alt="✨" width="32" height="32">
+</picture> <h3 align="center">📈 Tabela Resumo das Estatísticas</h3>
 
 | Estatística       | Valor          |
 |-------------------|----------------|
@@ -69,7 +81,11 @@ My Gists Cards
 
  [GistCard](https://gist.github.com/Gbs5676/ba91366e884f44df0d489f6059c22ecd)
 
-More coming soon
+
+ <picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif" alt="✨" width="32" height="32">
+</picture>  More coming soon
 
 
 ![Gbs5676 snake gif](https://github.com/Gbs5676/Gbs5676/blob/output/github-snake.svg)
