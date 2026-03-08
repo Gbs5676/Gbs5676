@@ -23,25 +23,6 @@
 <picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif" alt="✨" width="32" height="32">
-</picture> <h3 align="center">Escolha seu destino:</h3>
-
-<p align="center">
-  <a href="https://code.dcoder.tech/profile/gabriel555" target="_blank">
-    <img src="https://img.shields.io/badge/Dcoder-323330?style=for-the-badge&logo=dcoder&logoColor=F7DF1E" alt="Abrir perfil Dcoder"/>
-  </a>
-  <a href="https://404-flax.vercel.app/?vercelToolbarCode=nitTT2OzUtQxYuc" target="_self">
-    <img src="https://img.shields.io/badge/Projetos-28A745?style=for-the-badge&logo=github&logoColor=white" alt="Ver meus projetos"/>
-  </a>
-  <a href="https://smbglobal.simdif.com/" target="_self">
-    <img src="https://img.shields.io/badge/Contato-007ACC?style=for-the-badge&logo=mail.ru&logoColor=white" alt="Entre em contato comigo!"/>
-  </a>
-</p>
-
----
-
-<picture>
-  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.webp" type="image/webp">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif" alt="✨" width="32" height="32">
 </picture> <h2 align="center">📊 Minhas Estatísticas no GitHub</h2>
 
 <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="400">
