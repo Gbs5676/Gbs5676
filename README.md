@@ -7,7 +7,7 @@
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif" alt="✨" width="32" height="32">
   </picture> Olá, seja bem-vindo ao meu GitHub!
 </h1>
-<p>Olá! meu nome é Gabriel Paiva, desenvolvomapps python,web, java  mobile, estou em constante aprendizado! aliás, quem não está né?</p>
+<p>Olá! meu nome é Gabriel Paiva, desenvolvo apps python,web, java  mobile, estou em constante aprendizado! aliás, quem não está né?</p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="00">
 
@@ -28,29 +28,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="400">
 <br><br>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gbs5676&show_icons=true&theme=radical" alt="Estatísticas do GitHub"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gbs5676&layout=compact&theme=radical" alt="Linguagens mais usadas"/>
-</p>
-
 ---
-
-<picture>
-  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.webp" type="image/webp">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif" alt="✨" width="32" height="32">
-</picture> <h3 align="center">📈 Tabela Resumo das Estatísticas</h3>
-
-| Estatística       | Valor          |
-|-------------------|----------------|
-| Commits           |unknown          |
-| Issues abertas    | unknown          |
-| Contribuições em repositórios externos | unknown     |
-| Seguidores        | unknown           |
-| Projetos destacados | unknown         |
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=500&color=FF5733&center=true&vCenter=true&width=550&lines=Não+esqueça+de+deixar+um+%E2%9D%A4!" alt="Mensagem final com coração"/>
 </p>
