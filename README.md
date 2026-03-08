@@ -7,8 +7,9 @@
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif" alt="✨" width="32" height="32">
   </picture> Olá, seja bem-vindo ao meu GitHub!
 </h1>
+<p>Olá! meu nome é Gabriel Paiva, desenvolvomapps python,web, java  mobile, estou em constante aprendizado! aliás, quem não está né?</p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="00">
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 <br><br>
