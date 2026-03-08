@@ -16,20 +16,9 @@
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=500&color=36BCF7&center=true&vCenter=true&width=450&lines=Aonde+vamos+agora%3F+%E2%80%A2%E2%80%A2%E2%80%A2;Olá,+sou+Gabriel!!" alt="Texto animado de boas-vindas" />
   
-</p>
 
 ---
 
-<picture>
-  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.webp" type="image/webp">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif" alt="✨" width="32" height="32">
-</picture> <h2 align="center">📊 Minhas Estatísticas no GitHub</h2>
-
-<img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="400">
-<br><br>
-
----
-<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=500&color=FF5733&center=true&vCenter=true&width=550&lines=Não+esqueça+de+deixar+um+%E2%9D%A4!" alt="Mensagem final com coração"/>
 </p>
 
