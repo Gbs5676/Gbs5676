@@ -14,7 +14,7 @@
 <br><br>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=500&color=36BCF7&center=true&vCenter=true&width=450&lines=Aonde+vamos+agora%3F+%E2%80%A2%E2%80%A2%E2%80%A2;Olá,+sou+Gabriel!!" alt="Texto animado de boas-vindas" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=500&color=36BCF7&center=true&vCenter=true&width=450&lines=Aonde+vamos+agora%3F+%E2%80%A2%E2%80%A2%E2%80%A•;Olá,+sou+Gabriel!!" alt="Texto animado de boas-vindas" />
 </p>
 
 ---
@@ -25,13 +25,13 @@
 </picture> <h3 align="center">Escolha seu destino:</h3>
 
 <p align="center">
-  <a href="https://code.dcoder.tech/profile/gabriel555" target="_blank">
+  <a href="https://g-scripter.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Dcoder-323330?style=for-the-badge&logo=dcoder&logoColor=F7DF1E" alt="Abrir perfil Dcoder"/>
   </a>
-  <a href="https://404-flax.vercel.app/?vercelToolbarCode=nitTT2OzUtQxYuc" target="_self">
+  <a href="https://meuportfoliowdb.vercel.app?vercelToolbarCode=nitTT2OzUtQxYuc" target="_self">
     <img src="https://img.shields.io/badge/Projetos-28A745?style=for-the-badge&logo=github&logoColor=white" alt="Ver meus projetos"/>
   </a>
-  <a href="https://smbglobal.simdif.com/" target="_self">
+  <a href="https://feed-nine-liard.vercel.app/" target="_self">
     <img src="https://img.shields.io/badge/Contato-007ACC?style=for-the-badge&logo=mail.ru&logoColor=white" alt="Entre em contato comigo!"/>
   </a>
 </p>
