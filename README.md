@@ -52,18 +52,6 @@
 <picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif" alt="✨" width="32" height="32">
-</picture> <h2 align="center">📊 Minhas Estatísticas no GitHub</h2>
-
-<img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="400">
-<br><br>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gbs5676&show_icons=true&theme=radical&count_private=true" alt="Estatísticas do GitHub"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gbs5676&layout=compact&theme=radical" alt="Linguagens mais usadas"/>
-</p>
 
 ---
 
@@ -96,7 +84,7 @@
 
 | Projeto | Descrição | Linguagem |
 |---------|-----------|-----------|
-| [BADTIME-APP](https://github.com/Gbs5676/BADTIME-APP) | Aplicação inovadora | - |
+| [BADTIME-APP](https://github.com/Gbs5676/BADTIME-APP) | Jogo batalha do Sans APK webview| - |
 | [HTML-Ai-Chatbot](https://github.com/Gbs5676/HTML-Ai-Chatbot) | Chatbot com IA | HTML |
 | [Lua-Online](https://github.com/Gbs5676/Lua-Online) | Editor Lua Online | C |
 | [Terminal-Memory-Game](https://github.com/Gbs5676/Terminal-Memory-Game-) | Jogo de Memória | Go |
