@@ -4,7 +4,6 @@
 <h1>
   <picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.webp" type="image/webp">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif" alt="✨" width="32" height="32">
   </picture> Olá, seja bem-vindo ao meu GitHub!
 </h1>
 
@@ -21,7 +20,6 @@
 
 <picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.webp" type="image/webp">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif" alt="✨" width="32" height="32">
 </picture> <h3 align="center">Escolha seu destino:</h3>
 
 <p align="center">
@@ -40,7 +38,6 @@
 
 <picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.webp" type="image/webp">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif" alt="✨" width="32" height="32">
 </picture> <h2 align="center">🐍 Meu Gráfico de Contribuições (Snake Edition)</h2>
 
 <div align="center">
@@ -51,13 +48,10 @@
 
 <picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.webp" type="image/webp">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif" alt="✨" width="32" height="32">
-
 ---
 
 <picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.webp" type="image/webp">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif" alt="✨" width="32" height="32">
 </picture> <h3 align="center">🛠️ Linguagens & Tecnologias</h3>
 
 <div align="center">
@@ -77,7 +71,6 @@
 
 <picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.webp" type="image/webp">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif" alt="✨" width="32" height="32">
 </picture> <h3 align="center">📂 Meus Principais Projetos</h3>
 
 <div align="center">
@@ -98,42 +91,22 @@
 
 <picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.webp" type="image/webp">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif" alt="✨" width="32" height="32">
-</picture> <h3 align="center">💾 Meus Gists Favoritos</h3>
-
-<div align="center">
-
-[![Gist 1](https://img.shields.io/badge/Gist-a05b8389610318bb9bc317da6c93412e-blue?style=for-the-badge&logo=github)](https://gist.github.com/Gbs5676/a05b8389610318bb9bc317da6c93412e)
-
-[![Gist 2](https://img.shields.io/badge/Gist-ba91366e884f44df0d489f6059c22ecd-blue?style=for-the-badge&logo=github)](https://gist.github.com/Gbs5676/ba91366e884f44df0d489f6059c22ecd)
-
 </div>
 
 ---
 
 <picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.webp" type="image/webp">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif" alt="✨" width="32" height="32">
 </picture> <h3 align="center">📈 Atividades & Estatísticas Globais</h3>
 
 <div align="center">
 
-| Métrica | Valor |
-|---------|-------|
-| 📦 Repositórios Públicos | 11 |
-| ⭐ Stars Recebidas | 1 |
-| 👁️ Watchers | 1 |
-| 📅 Membro desde | 29 de Janeiro, 2024 |
-| 🔄 Atualizado | Em tempo real |
-
 </div>
 
 ---
 
 <picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.webp" type="image/webp">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif" alt="✨" width="32" height="32">
-</picture> <h3 align="center">💬 Vamos Conectar!</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=500&color=FF5733&center=true&vCenter=true&width=550&lines=Não+esqueça+de+deixar+um+❤️!;Me+siga+para+mais+conteúdo!" alt="Mensagem final"/>
@@ -149,5 +122,4 @@
 
 <picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.webp" type="image/webp">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif" alt="✨" width="32" height="32">
 </picture> <p align="center"><b>Mais conteúdo vindo em breve...</b> 🚀</p>
