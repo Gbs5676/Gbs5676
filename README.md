@@ -26,7 +26,7 @@
   <a href="https://g-scripter.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Dcoder-323330?style=for-the-badge&logo=dcoder&logoColor=F7DF1E" alt="Abrir perfil Dcoder"/>
   </a>
-  <a href="https://meuportfoliowdb.vercel.app" target="_self">
+  <a href="https://meuportfolioweb.vercel.app" target="_self">
     <img src="https://img.shields.io/badge/Projetos-28A745?style=for-the-badge&logo=github&logoColor=white" alt="Ver meus projetos"/>
   </a>
   <a href="https://feed-nine-liard.vercel.app/" target="_self">
