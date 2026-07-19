@@ -13,7 +13,7 @@
 <br><br>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=500&color=36BCF7&center=true&vCenter=true&width=450&lines=Aonde+vamos+agora%3F+%E2%80%A2%E2%80%A2%E2%80%A•;Olá,+sou+Gabriel!!" alt="Texto animado de boas-vindas" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=500&color=36BCF7&center=true&vCenter=true&width=450&lines=Aonde+vamos+agora•••;Olá,+sou+Gabriel!!" alt="Texto animado de boas-vindas" />
 </p>
 
 ---
