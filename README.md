@@ -112,12 +112,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=500&color=FF5733&center=true&vCenter=true&width=550&lines=Não+esqueça+de+deixar+um+❤️!;Me+siga+para+mais+conteúdo!" alt="Mensagem final"/>
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="500">
-
 <br><br>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Gbs5676&style=flat-square&color=blue" alt="Profile Views"/>
 </p>
 
 <picture>
