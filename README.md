@@ -109,7 +109,7 @@
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.webp" type="image/webp">
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=500&color=FF5733&center=true&vCenter=true&width=550&lines=Não+esqueça+de+deixar+um+❤️!;Me+siga+para+mais+conteúdo!" alt="Mensagem final"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=500&color=FF5733&center=true&vCenter=true&width=550&lines=Não+esqueça+de+deixar+uma+⭐!;Me+siga+para+mais+conteúdo!" alt="Mensagem final"/>
 </p>
 
 <br><br>
@@ -119,4 +119,3 @@
 
 <picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.webp" type="image/webp">
-</picture> <p align="center"><b>Mais conteúdo vindo em breve...</b> 🚀</p>
