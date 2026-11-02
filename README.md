@@ -77,7 +77,7 @@
 
 | Projeto | Descrição | Linguagem |
 |---------|-----------|-----------|
-| [BADTIME-APP](https://github.com/Gbs5676/BADTIME-APP) | Jogo batalha do Sans APK webview| - |
+| [BADTIME-APP](https://github.com/Gbs5676/BADTIME-APP) | Jogo batalha do Sans APK webview| Java |
 | [HTML-Ai-Chatbot](https://github.com/Gbs5676/HTML-Ai-Chatbot) | Chatbot com IA | HTML |
 | [Lua-Online](https://github.com/Gbs5676/Lua-Online) | Editor Lua Online | C |
 | [Terminal-Memory-Game](https://github.com/Gbs5676/Terminal-Memory-Game-) | Jogo de Memória | Go |
